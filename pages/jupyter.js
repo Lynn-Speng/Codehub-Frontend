@@ -1,4 +1,3 @@
-import Iframe from 'react-iframe';
 import { styled } from '@material-ui/core/styles';
 
 const jupyterIframe = styled('iframe')({
@@ -18,7 +17,7 @@ const jupyterIframe = styled('iframe')({
 
 const Jupyter = (props) => {
     return ( 
-        <iframe src="http://0.0.0.0:8888/?token=3ca85d47d548e4ca86395673f8ca302a266a118942fbf195" width="100%" height={screen.height + "px"}>
+        <iframe src="http://0.0.0.0:8888/?token=3ca85d47d548e4ca86395673f8ca302a266a118942fbf195" width="100%" >
             Your browser doesn't support iframes
         </iframe>
      );
