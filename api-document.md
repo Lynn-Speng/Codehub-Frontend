@@ -91,7 +91,6 @@
 		{
             title: "Chapter 1",
             discription: "Eiusmod nulla amet ut magna proident cillum dolor do labore.",
-            lectureCount: 5,
             lectures: [
                 {
                     title: "Lecture 4",
@@ -114,7 +113,6 @@
 		{
             title: "Chapter 1",
             discription: "Eiusmod nulla amet ut magna proident cillum dolor do labore.",
-            lectureCount: 5,
             lectures: [
                 {
                     title: "Lecture 8",
